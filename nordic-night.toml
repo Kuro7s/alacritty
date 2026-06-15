@@ -1,0 +1,21 @@
+# Based on the great emacs theme Nordic Night, which is based on the nord palette.
+# This is a "port" or rather a very lazy copy pasta of the nord colors with the
+# nordic night background and foreground colors.
+
+# The nord colors where directly taken from this repo: https://github.com/nordtheme/alacritty
+
+# Default colors
+[colors.primary]
+background = '#121212'
+foreground = '#d8dee9'
+
+# Normal colors
+[colors.normal]
+black   = '#121212'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#88c0d0'
+white   = '#e5e9f0'
